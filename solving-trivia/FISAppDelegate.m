@@ -7,8 +7,6 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     
-    //NSLog(@"\n\n\n****%@*****\n\n\n", [self arrayOfCharacters:@"Hello   World"]);
-    
     return YES;
 }
 
